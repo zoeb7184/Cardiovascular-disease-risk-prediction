@@ -42,9 +42,11 @@
 ## Project Structure
 
 ```
+├── CVD_Analysis_Report.pdf      # Detailed academic analysis and methodology
 ├── CVD_Risk_Prediction.ipynb    # Main notebook (EDA → preprocessing → modeling → evaluation)
-├── CVD_cleaned.csv              # Preprocessed dataset
-└── README.md
+├── CVD_cleaned.zip              # Compressed preprocessed dataset
+├── README.md
+└── requirements.txt             # Python dependencies
 ```
 
 ---
