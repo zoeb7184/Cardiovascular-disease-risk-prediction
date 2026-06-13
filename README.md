@@ -100,7 +100,7 @@ Age and self-rated general health together account for **61% of predictive power
 git clone https://github.com/zoeb7184/cvd-risk-prediction.git
 cd cvd-risk-prediction
 
-pip install pandas numpy scikit-learn matplotlib seaborn
+pip install -r requirements.txt
 
 jupyter notebook CVD_Risk_Prediction.ipynb
 ```
