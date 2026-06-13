@@ -97,11 +97,17 @@ Age and self-rated general health together account for **61% of predictive power
 ## How to Run
 
 ```bash
-git clone https://github.com/zoeb7184/cvd-risk-prediction.git
+# 1. Clone the repository
+git clone [https://github.com/zoeb7184/Cardiovascular-disease-risk-prediction.git](https://github.com/zoeb7184/Cardiovascular-disease-risk-prediction.git)
 cd Cardiovascular-disease-risk-prediction
 
+# 2. Unzip the dataset
+unzip CVD_cleaned.zip
+
+# 3. Install dependencies
 pip install -r requirements.txt
 
+# 4. Launch the notebook
 jupyter notebook CVD_Risk_Prediction.ipynb
 ```
 
