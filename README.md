@@ -98,7 +98,7 @@ Age and self-rated general health together account for **61% of predictive power
 
 ```bash
 git clone https://github.com/zoeb7184/cvd-risk-prediction.git
-cd cvd-risk-prediction
+cd Cardiovascular-disease-risk-prediction
 
 pip install -r requirements.txt
 
